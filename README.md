@@ -21,7 +21,7 @@ the website serves as both an educational tool and reference guide for anyone st
 ## Features
 
  This project currently includes 
- - Basic Html structure--- Demonstrates how to set up a simple webpage using elements like <html>, <head>, <body>, and more.
+ - Basic Html structure--- Demonstrates how to set up a simple webpage using elements like <html>, <head>, <body>,and more.
  - Text Formatting---Examples of headings, paragraphs. bold/italic text, and lists
 
 ## Getting Started
