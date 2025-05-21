@@ -26,48 +26,20 @@ the website serves as both an educational tool and reference guide for anyone st
 
 ## Getting Started
 
-To get started with the HTML & CSS Relearn Website, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/hhicks658/html-css-relearn-website.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd html-css-relearn-website
-   ```
-
-3. **Open `index.html` in your browser:**
-   - You can simply double-click the file or use a local development server for live reloads.
 
 ## Project Structure
 
 ```
-html-css-relearn-website/
-├── css/
-│   └── styles.css
-├── images/
-│   └── (image assets)
-├── index.html
-├── README.md
-└── (other HTML/CSS files)
+
 ```
 
-- `index.html` — The main landing page.
-- `css/styles.css` — Main stylesheet.
-- `images/` — Directory for images used in the site.
-- Additional HTML files for separate topics or exercises.
+
 
 ## Contributing
 
 Contributions are welcome! If you want to add examples, fix bugs, or improve documentation:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add some feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a pull request.
+
 
 ## License
 
