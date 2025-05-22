@@ -40,7 +40,7 @@ To explore or edit this project, you don’t need much just a few things:
 
 A web browser (like Chrome, Firefox, Safari, etc.)
 
-A code editor — VS Code is what I use and recommend, but feel free to use whatever you're comfortable with:
+A code editor VS Code is what I use and recommend, but feel free to use whatever you're comfortable with:
 
 VS Code –-- super beginner-friendly and lightweight
 
