@@ -36,7 +36,7 @@ Organized Layout – Clean file structure with folders for HTML, CSS, and assets
 
 What You’ll Need
 
-To explore or edit this project, you don’t need much — just:
+To explore or edit this project, you don’t need much just a few things:
 
 A web browser (like Chrome, Firefox, Safari, etc.)
 
