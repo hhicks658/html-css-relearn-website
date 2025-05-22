@@ -68,8 +68,17 @@ Understand how HTML structures a webpage headings, paragraphs, links, and more.
 3. CSS Basics
 Learn how CSS styles your page colors, fonts, spacing, and layout.
 
+hello startup/
+|-- index.html
+|--style.css
+|--script.js
+|--assets/
+|    |--images/
+|    |--videos/
+|    |--snippets
+|______readme.md
 
-4. Step-by-Step Practice Modules
+5. Step-by-Step Practice Modules
 
 Buttons —-- The first practice. Create and style buttons with different colors and effects.
 
