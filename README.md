@@ -30,7 +30,7 @@ the website serves as both an educational tool and reference guide for anyone st
 
 - Inline, Internal, and External CSS –-- Covers different ways to apply CSS.
 
-Organized Layout – Clean file structure with folders for HTML, CSS, and assets
+Organized Layout --Clean file structure with folders for HTML, CSS, and assets
 
 ## Getting Started
 
