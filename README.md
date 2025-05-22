@@ -24,6 +24,14 @@ the website serves as both an educational tool and reference guide for anyone st
  - Basic Html structure--- Demonstrates how to set up a simple webpage using elements like html, head, body,and more.
  - Text Formatting---Examples of headings, paragraphs. bold/italic text, and lists
 
+- Linking and Images –-- Shows how to add hyperlinks and insert images into a webpage.
+
+- Basic CSS Styling --– Applies color, font styles, spacing, and borders to HTML elements.
+
+- Inline, Internal, and External CSS –-- Covers different ways to apply CSS.
+
+Organized Layout – Clean file structure with folders for HTML, CSS, and assets
+
 ## Getting Started
 
 
