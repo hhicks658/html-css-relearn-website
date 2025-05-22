@@ -58,7 +58,7 @@ This project guides you step-by-step through building a complete, styled webpage
 Here’s the path you’ll follow:
 
 1. Hello Page
-A simple example page that shows what you’ll be able to build by the end — clean, styled, and interactive.
+A simple example page that shows what you’ll be able to build by the end clean, styled, and interactive.
 
 
 2. HTML Basics
