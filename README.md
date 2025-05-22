@@ -53,9 +53,33 @@ Or an online editor like Replit or CodePen if you don’t want to download anyth
 
 ## Project Structure
 
-```
+This project guides you step-by-step through building a complete, styled webpage. You’ll start with simple tasks and gradually add more features, practicing important skills along the way.
 
-```
+Here’s the path you’ll follow:
+
+1. Hello Page
+A simple example page that shows what you’ll be able to build by the end — clean, styled, and interactive.
+
+
+2. HTML Basics
+Understand how HTML structures a webpage headings, paragraphs, links, and more.
+
+
+3. CSS Basics
+Learn how CSS styles your page colors, fonts, spacing, and layout.
+
+
+4. Step-by-Step Practice Modules
+
+Buttons —-- The first practice. Create and style buttons with different colors and effects.
+
+Text & Paragraphs —-- Add and format text content clearly and effectively.
+
+Images —-- Learn how to insert and style images on your page.
+
+Lists & Links —-- Build navigation and organized content sections.
+
+Layouts —-- Use CSS to arrange content visually on the page.
 
 
 
