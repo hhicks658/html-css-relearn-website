@@ -34,6 +34,22 @@ Organized Layout – Clean file structure with folders for HTML, CSS, and assets
 
 ## Getting Started
 
+What You’ll Need
+
+To explore or edit this project, you don’t need much — just:
+
+A web browser (like Chrome, Firefox, Safari, etc.)
+
+A code editor — VS Code is what I use and recommend, but feel free to use whatever you're comfortable with:
+
+VS Code –-- super beginner-friendly and lightweight
+
+PyCharm --– if you're already using it
+
+Sublime Text --– quick and simple
+
+Or an online editor like Replit or CodePen if you don’t want to download anything
+
 
 ## Project Structure
 
